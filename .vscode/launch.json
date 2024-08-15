@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AnimalFactsApplication<animal-facts>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.fun_animal_facts.animal_facts.AnimalFactsApplication",
+            "projectName": "animal-facts",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
